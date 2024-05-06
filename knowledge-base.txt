@@ -2,8 +2,8 @@ variable types
     int
     float
     str
-    tuple
-    list
+    tuple[()
+    list[]
 
 
 input()
